@@ -1,0 +1,6 @@
+@ApiGreenGold_HostAddress = http://localhost:5151
+
+GET {{ApiGreenGold_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
